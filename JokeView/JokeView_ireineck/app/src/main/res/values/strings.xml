@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="author_name">ireineck</string>
+    <string name="app_name">JokeView</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Joke View</string>
+    <string-array name="jokeList">
+		<item>A small boy swallowed some coins and was taken to a hospital. When his grandfather telephoned to ask how he was a nurse said, \'No change yet\'.</item>
+		<item>Cartoonist found dead in home. Details are sketchy.</item>
+		<item>I wondered why the baseball was getting bigger. Then it hit me.</item>
+	</string-array>
+	<string name="remove_menuitem">Remove</string>
+	<string name="filter_menuitem">Filter</string>
+	<string name="like_menuitem">Like</string>
+	<string name="dislike_menuitem">Dislike</string>
+	<string name="unrated_menuitem">Unrated</string>
+	<string name="show_all_menuitem">Show All</string>
+	<string name="add_joke">Add Joke</string>
+	<string name="enter_joke_hint">Enter joke...</string>
+	<string name="joke_view_default_text">This is a really long string that will be replaced never to be seen again when a joke view is added to the list.</string>
+</resources>

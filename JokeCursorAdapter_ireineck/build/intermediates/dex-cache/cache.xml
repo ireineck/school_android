@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ianreineck/Desktop/JokeCursorAdapter_ireineck/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/ianreineck/Desktop/JokeCursorAdapter_ireineck/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-3da68d6c0b7a282addccfb0c677e3680bcfb8925.jar" />
+    </item>
+    <item
+        jar="/Users/ianreineck/Desktop/JokeCursorAdapter_ireineck/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/Users/ianreineck/Desktop/JokeCursorAdapter_ireineck/app/build/intermediates/pre-dexed/release/classes-df4fdc17f939c2a0c5b2fdfc128c66d6bf9bb11f.jar" />
+    </item>
+    <item
+        jar="/Users/ianreineck/Desktop/JokeCursorAdapter_ireineck/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/ianreineck/Desktop/JokeCursorAdapter_ireineck/app/build/intermediates/pre-dexed/release/classes-bf1d8162bf0b6b1ccdc4ada70d186f84df3aa4bc.jar" />
+    </item>
+    <item
+        jar="/Users/ianreineck/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/ianreineck/Desktop/JokeCursorAdapter_ireineck/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-afc659a80f8e6beb2b4b0693a72768f7ff5f995b.jar" />
+    </item>
+
+</items>
